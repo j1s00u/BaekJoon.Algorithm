@@ -19,7 +19,6 @@ public class No_1978 {
 			}
 		}
 		System.out.println(cnt);
-
 	}
 
 }
